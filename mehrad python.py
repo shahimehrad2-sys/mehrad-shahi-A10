@@ -1,2 +1,4 @@
-my_list=[1,2,3,4,5,6,7,8,9,10,11,21,23,4,5,6,7,8,7,65432]
-print("7 repaded many time : ",getattr.count)
+number_1= 3
+number_2 = 6 
+result = number_1 + number_2
+print(f"the result Is : {result}")
